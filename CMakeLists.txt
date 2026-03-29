@@ -3,4 +3,10 @@ project(lab1Algebra)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(lab1Algebra main.cpp)
+add_executable(lab1Algebra
+        main.cpp
+        src/gauss.cpp
+        src/lu.cpp
+        src/matrix.cpp
+        src/utils.cpp
+)

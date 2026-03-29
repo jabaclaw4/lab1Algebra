@@ -1,0 +1,14 @@
+# ninja log v6
+5	1027	7964883519893441	CMakeFiles/lab1Algebra.dir/main.cpp.obj	8bbeb1c89f720960
+6	508	7964886380448675	build.ninja	2298c8c45f52a720
+80	695	7964886382731166	CMakeFiles/lab1Algebra.dir/src/utils.cpp.obj	77e442345b7d6212
+70	831	7964886382638852	CMakeFiles/lab1Algebra.dir/src/matrix.cpp.obj	6dd33730dc22f5e5
+54	865	7964886382477526	CMakeFiles/lab1Algebra.dir/src/gauss.cpp.obj	75176a37e71f6bc5
+62	929	7964886382559966	CMakeFiles/lab1Algebra.dir/src/lu.cpp.obj	a8df58df2688a7e0
+929	1149	7964886391234850	lab1Algebra.exe	87764bb0a1a5e9af
+41	573	7964912106910238	CMakeFiles/lab1Algebra.dir/src/utils.cpp.obj	77e442345b7d6212
+18	705	7964912106676300	CMakeFiles/lab1Algebra.dir/src/gauss.cpp.obj	75176a37e71f6bc5
+25	788	7964912106749602	CMakeFiles/lab1Algebra.dir/src/lu.cpp.obj	a8df58df2688a7e0
+33	803	7964912106833427	CMakeFiles/lab1Algebra.dir/src/matrix.cpp.obj	6dd33730dc22f5e5
+8	912	7964912106580393	CMakeFiles/lab1Algebra.dir/main.cpp.obj	8bbeb1c89f720960
+912	1175	7964912115614358	lab1Algebra.exe	87764bb0a1a5e9af
