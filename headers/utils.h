@@ -1,11 +1,11 @@
 #ifndef UTILS_H
 #define UTILS_H
 #include "matrix.h"
+#include "ctime"
 
 //замер времени через clock()
 struct Timer {
     clock_t start;
-
     void begin() {
         start = clock();
     }

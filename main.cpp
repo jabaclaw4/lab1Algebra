@@ -10,8 +10,6 @@
 void experiment_1() {
     std::cout << "\n=== Experiment 1: solving time for different matrix sizes ===\n";
     std::cout << "n\tGauss (ms)\tGauss+pivot (ms)\tLU decomp (ms)\tLU solve (ms)\tLU total (ms)\n";
-    std::cout << "-------------------------------------------------------------------------------------\n";
-
     std::vector<int> sizes = {100, 200, 500, 1000};
 
     for (int n : sizes) {
@@ -53,8 +51,6 @@ void experiment_1() {
 void experiment_2() {
     std::cout << "\n=== Experiment 2: multiple right-hand sides, n = 500 ===\n";
     std::cout << "k\tGauss+pivot (ms)\tLU (ms)\n";
-    std::cout << "----------------------------------------\n";
-
     int n = 500;
     Matrix A = generate_random_matrix(n, 40);
 
@@ -84,11 +80,10 @@ void experiment_2() {
     }
 }
 
-//эксперимент 3: матрица гильберта — плохо обусловленные системы
+//эксперимент 3: матрица гильберта
 void experiment_3() {
     std::cout << "\n=== Experiment 3: Hilbert matrix (ill-conditioned) ===\n";
     std::cout << "n\tmethod\t\terror\t\t\tresidual\n";
-    std::cout << "------------------------------------------------------------\n";
 
     std::vector<int> sizes = {5, 10, 15};
 

@@ -1,3 +1,3 @@
-C:/Users/jabaclaw4/CLionProjects/lab1Algebra/cmake-build-debug/CMakeFiles/lab1Algebra.dir
-C:/Users/jabaclaw4/CLionProjects/lab1Algebra/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jabaclaw4/CLionProjects/lab1Algebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/CLionProjects/lab1Algebra/cmake-build-debug/CMakeFiles/lab1Algebra.dir
+C:/Users/User/CLionProjects/lab1Algebra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/lab1Algebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
